@@ -1,13 +1,30 @@
 # Landing Page Project
+This project has a dynamic navigation menu and I use a my knowledge of HTML, CSS, and javascript to build it.
 
 ## Table of Contents
-
-* [Instructions](#instructions)
+ - [Instructions](Instructions)
+ - [Landing Page Contents](Landing-Page-Contents)
+   - [Folders and Files](Folders-and-Files)
+   
 
 ## Instructions
+You can run this project using by this link :(https://landing-page-wejdancs.netlify.app/) or you can clone this repository or fork it.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Landing Page Contents
+This project contains one folder for styles using CSS and another folder to interact with the user using javascript and other files : HTML and README.Md
 
-To get started, open `js/app.js` and start building out the app's functionality
+   - ### Folders and Files 
+       - css
+          - styles.css
+       - js
+          - app.js
+       - README.md
+       - index.html
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+
+
+
+
+
+
+
