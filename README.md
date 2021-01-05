@@ -2,9 +2,9 @@
 This project has a dynamic navigation menu and I use a my knowledge of HTML, CSS, and javascript to build it.
 
 ## Table of Contents
- - [Instructions](Instructions)
- - [Landing Page Contents](Landing-Page-Contents)
-   - [Folders and Files](Folders-and-Files)
+ - [Instructions](#Instructions)
+ - [Landing Page Contents](#Landing-Page-Contents)
+   - [Folders and Files](#Folders-and-Files)
    
 
 ## Instructions
